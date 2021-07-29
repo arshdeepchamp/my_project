@@ -1,0 +1,13 @@
+.margin{
+    margin-top: 20px;
+}
+.panel_margin{
+    margin-top: 100px;
+}
+body{
+    background-color: blanchedalmond;
+}
+.message{
+    text-align: center;
+    font-size: 25px;
+}
